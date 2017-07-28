@@ -1,0 +1,12 @@
+consumption-dashboard*.tar
+packages/
+.paket/
+bin/
+obj/
+node_modules/
+build/
+coverage/
+*.userprefs
+paket.lock
+.DS_Store
+npm-debug.log

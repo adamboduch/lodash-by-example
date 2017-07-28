@@ -1,0 +1,22 @@
+{
+  "name": "lodash-by-example",
+  "version": "1.0.0",
+  "description": "Learning lodash by example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamboduch/lodash-by-example.git"
+  },
+  "author": "Adam Boduch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamboduch/lodash-by-example/issues"
+  },
+  "homepage": "https://github.com/adamboduch/lodash-by-example#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
